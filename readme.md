@@ -1,7 +1,7 @@
 # Website de Fotografia Profissional Responsivo em HTML e CSS
 <div style="display: inline-block">
-    <img src="home1.png" alt="website">
-    <img src="home2.png" alt="website">
+    <img src="assets/img/home1.png" alt="website">
+    <img src="assets/img/home2.png" alt="website">
 </div>
 
 ## Sobre o Projeto
