@@ -1,12 +1,13 @@
 # Tesla.com Website
 <div style="display: inline-block">
-    <img src="#" alt="website">
+    <img src="home1.png" alt="website">
+    <img src="home2.png" alt="website">
 </div>
 
 ## Sobre o Projeto
 A ideia do website foi para aplicar, práticar e melhorar minhas habilidades técnicas em desenvolvimento web. 
 
-**Acesse no seu navegador clicando aqui**: 
+**Acesse no seu navegador clicando aqui**: https://filipirafael.github.io/fotografo-profissional-website/
 
 ## Novas versões
 Conforme vou adquirindo novas habilidades, irei atualizando o projeto em novas versões. 
